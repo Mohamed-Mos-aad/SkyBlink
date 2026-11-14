@@ -1,0 +1,200 @@
+[
+  {
+    "id": "3i-atlas",
+    "name": "3I/ATLAS (Interstellar Comet)",
+    "ra": 156.09,
+    "dec": -41.64,
+    "sizeDeg": 0.1,
+    "blurb": "An interstellar visitor passing through our solar system, captured at infrared wavelengths by SPHEREx.",
+    "frameCount": 6,
+    "frames": [
+      {
+        "id": "f001",
+        "date": "2025-08-05",
+        "url": "/frames/3i-atlas/001.webp",
+        "thumb": "/frames/3i-atlas/001-t.webp",
+        "wavelengthUm": 1.25,
+        "object": {
+          "x": 0.32,
+          "y": 0.65
+        }
+      },
+      {
+        "id": "f002",
+        "date": "2025-08-28",
+        "url": "/frames/3i-atlas/002.webp",
+        "thumb": "/frames/3i-atlas/002-t.webp",
+        "wavelengthUm": 1.28,
+        "object": {
+          "x": 0.38,
+          "y": 0.58
+        }
+      },
+      {
+        "id": "f003",
+        "date": "2025-09-20",
+        "url": "/frames/3i-atlas/003.webp",
+        "thumb": "/frames/3i-atlas/003-t.webp",
+        "wavelengthUm": 1.63,
+        "object": {
+          "x": 0.45,
+          "y": 0.52
+        }
+      },
+      {
+        "id": "f004",
+        "date": "2025-10-15",
+        "url": "/frames/3i-atlas/004.webp",
+        "thumb": "/frames/3i-atlas/004-t.webp",
+        "wavelengthUm": 1.65,
+        "object": {
+          "x": 0.52,
+          "y": 0.45
+        }
+      },
+      {
+        "id": "f005",
+        "date": "2025-11-10",
+        "url": "/frames/3i-atlas/005.webp",
+        "thumb": "/frames/3i-atlas/005-t.webp",
+        "wavelengthUm": 2.42,
+        "object": {
+          "x": 0.6,
+          "y": 0.38
+        }
+      },
+      {
+        "id": "f006",
+        "date": "2025-12-14",
+        "url": "/frames/3i-atlas/006.webp",
+        "thumb": "/frames/3i-atlas/006-t.webp",
+        "wavelengthUm": 2.45,
+        "object": {
+          "x": 0.68,
+          "y": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "2024-yr4",
+    "name": "Asteroid 2024 YR4",
+    "ra": 84.22,
+    "dec": 12.85,
+    "sizeDeg": 0.08,
+    "blurb": "Rapidly moving Near-Earth Object exhibiting noticeable parallax shift between 6-month SPHEREx survey passes.",
+    "frameCount": 5,
+    "frames": [
+      {
+        "id": "f001",
+        "date": "2025-07-12",
+        "url": "/frames/2024-yr4/001.webp",
+        "thumb": "/frames/2024-yr4/001-t.webp",
+        "wavelengthUm": 2.1,
+        "object": {
+          "x": 0.22,
+          "y": 0.28
+        }
+      },
+      {
+        "id": "f002",
+        "date": "2025-08-16",
+        "url": "/frames/2024-yr4/002.webp",
+        "thumb": "/frames/2024-yr4/002-t.webp",
+        "wavelengthUm": 2.15,
+        "object": {
+          "x": 0.35,
+          "y": 0.39
+        }
+      },
+      {
+        "id": "f003",
+        "date": "2025-09-18",
+        "url": "/frames/2024-yr4/003.webp",
+        "thumb": "/frames/2024-yr4/003-t.webp",
+        "wavelengthUm": 3.12,
+        "object": {
+          "x": 0.49,
+          "y": 0.51
+        }
+      },
+      {
+        "id": "f004",
+        "date": "2025-10-22",
+        "url": "/frames/2024-yr4/004.webp",
+        "thumb": "/frames/2024-yr4/004-t.webp",
+        "wavelengthUm": 3.18,
+        "object": {
+          "x": 0.63,
+          "y": 0.64
+        }
+      },
+      {
+        "id": "f005",
+        "date": "2025-11-28",
+        "url": "/frames/2024-yr4/005.webp",
+        "thumb": "/frames/2024-yr4/005-t.webp",
+        "wavelengthUm": 4.1,
+        "object": {
+          "x": 0.76,
+          "y": 0.77
+        }
+      }
+    ]
+  },
+  {
+    "id": "wise-0855",
+    "name": "WISE J0855-0714 (Cold Brown Dwarf)",
+    "ra": 133.87,
+    "dec": -7.24,
+    "sizeDeg": 0.12,
+    "blurb": "One of the coldest sub-stellar brown dwarfs known (250 K), glowing primarily in mid-infrared wavelengths.",
+    "frameCount": 4,
+    "frames": [
+      {
+        "id": "f001",
+        "date": "2025-06-10",
+        "url": "/frames/wise-0855/001.webp",
+        "thumb": "/frames/wise-0855/001-t.webp",
+        "wavelengthUm": 4.45,
+        "object": {
+          "x": 0.28,
+          "y": 0.48
+        }
+      },
+      {
+        "id": "f002",
+        "date": "2025-08-02",
+        "url": "/frames/wise-0855/002.webp",
+        "thumb": "/frames/wise-0855/002-t.webp",
+        "wavelengthUm": 4.48,
+        "object": {
+          "x": 0.42,
+          "y": 0.49
+        }
+      },
+      {
+        "id": "f003",
+        "date": "2025-10-04",
+        "url": "/frames/wise-0855/003.webp",
+        "thumb": "/frames/wise-0855/003-t.webp",
+        "wavelengthUm": 4.75,
+        "object": {
+          "x": 0.57,
+          "y": 0.51
+        }
+      },
+      {
+        "id": "f004",
+        "date": "2025-12-01",
+        "url": "/frames/wise-0855/004.webp",
+        "thumb": "/frames/wise-0855/004-t.webp",
+        "wavelengthUm": 4.8,
+        "object": {
+          "x": 0.71,
+          "y": 0.52
+        }
+      }
+    ]
+  }
+]
